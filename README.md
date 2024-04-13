@@ -1,5 +1,5 @@
 
-# AirGuard: Smart Mask Advisory System
+# AirSense: Smart Mask Advisory System
 
 ![AirGuard Logo](link/to/your/logo.png)
 
